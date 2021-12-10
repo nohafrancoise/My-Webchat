@@ -118093,7 +118093,7 @@ Room.prototype.del = function(id){
 };
 
 },{"events":"../node_modules/events/events.js","process":"../node_modules/process/browser.js"}],"../node_modules/socket.io/lib/index.js":[function(require,module,exports) {
-var __dirname = "C:\\Users\\nohaf\\OneDrive\\Bureau\\Projet Webchat\\chat-room\\node_modules\\socket.io\\lib";
+var __dirname = "C:\\Users\\nohaf\\OneDrive\\Bureau\\Projet Webchat\\My-Webchat\\chat\\node_modules\\socket.io\\lib";
 'use strict';
 
 /**
@@ -118724,7 +118724,7 @@ var App = function App(_ref) {
     className: "row"
   }, /*#__PURE__*/_react.default.createElement("div", {
     className: "col-md-12 mt-4 mb-4"
-  }, /*#__PURE__*/_react.default.createElement("h6", null, "Hello ", username))), /*#__PURE__*/_react.default.createElement("div", {
+  }, /*#__PURE__*/_react.default.createElement("h1", null, "Hello ", username))), /*#__PURE__*/_react.default.createElement("div", {
     className: "row"
   }, /*#__PURE__*/_react.default.createElement("div", {
     className: "col-md-8"
@@ -118805,7 +118805,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "61106" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "57313" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

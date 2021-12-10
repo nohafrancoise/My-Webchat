@@ -5,6 +5,10 @@
   padding: 20px;
 }
 
+body{
+  background-color: aqua;
+}
+
 input {
   width: 100%;
 }
@@ -12,3 +16,4 @@ input {
 #submit {
   width: 100%;
 }
+

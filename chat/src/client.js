@@ -53,7 +53,7 @@ const App = ({}) => {
     <div className="container">
       <div className="row">
         <div className="col-md-12 mt-4 mb-4">
-          <h6>Hello {username}</h6>
+          <h1>Hello {username}</h1>
         </div>
       </div>
       <div className="row">
