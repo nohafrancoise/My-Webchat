@@ -8,8 +8,8 @@ Click [here](https://nodejs.org/en/download/) to install Node.js.
 run this command in your terminal :
 
 ``Npm i ``
-To install babel :
 
+To install babel :
 ``npm install --save-dev @babel/core``
 
 To install nodemon :
