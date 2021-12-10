@@ -1,0 +1,19 @@
+#messages {
+  height: 200px;
+  background-color: #eee;
+  font-size: 12px;
+  padding: 20px;
+}
+
+body{
+  background-color: aqua;
+}
+
+input {
+  width: 100%;
+}
+
+#submit {
+  width: 100%;
+}
+
